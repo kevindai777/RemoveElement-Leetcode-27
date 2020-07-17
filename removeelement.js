@@ -3,6 +3,7 @@
 let nums = [3,2,2,3], val = 3
 
 
+//O(n) solution that traverses the entire array
 //We use the 'left' pointer to check how many values are NOT the given value,
 //and return it at the end.
 
